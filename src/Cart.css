@@ -1,0 +1,12 @@
+#cart {
+    display: flex;
+}
+
+.products {
+    width: 80%;
+
+}
+
+.cartsInfo {
+    width: 20%;
+}
